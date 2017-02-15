@@ -1,0 +1,34 @@
+{
+  "name": "react-seed",
+  "version": "0.0.0",
+  "description": "React seed",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "ui-router-react": "^0.4.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "css-loader": "^0.26.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "main": "src/index.html",
+  "scripts": {
+    "build": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsilva2401/react-seed.git"
+  },
+  "author": "Diego Silva <dsilva2401@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsilva2401/react-seed/issues"
+  },
+  "homepage": "https://github.com/dsilva2401/react-seed#readme"
+}
